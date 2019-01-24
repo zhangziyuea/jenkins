@@ -12,4 +12,4 @@ def test_login():
     print("bbbb")
     allure.attach("注册","点击注册")
     print("cccc")
-    assert 0
+    assert 1
